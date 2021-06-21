@@ -1,0 +1,97 @@
+/*ENCABEZADO*/
+@import url('https://fonts.googleapis.com/css2? family = Montserrat: ital, wght @ 0,400; 0,700; 1,400; 1,700 & display = swap');
+.hero{
+    background-color: beige;
+    background-image: url('../images/banner.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 300px;
+    line-height: 0px;
+}
+.logo{
+    text-align: center;
+    height: 300px;
+}
+.titulo{ 
+    background-color: rgba(74, 9, 160, 0.5);
+    height: 10px;
+    text-align: center;
+    color: black;
+    font-family: Montserrat, sans-serif;
+    font-size: 25px;    
+    font-style:normal;
+    font-weight: 700;
+    letter-spacing: 6px;
+}
+
+nav a{
+    text-decoration: none;
+    background-color: rgba(238, 186, 238, 0.747);
+    height: 30px;
+    color: rgb(255, 107, 91);
+    font-family: Montserrat, sans-serif;
+    font-size: 15px;
+    font-weight: 400;
+}
+/*CUERPO*/
+body{
+    background-color: rgba(156, 38, 156, 0.582);
+}
+main{
+    max-width: 1041px;
+    margin: 50px auto;
+    line-height: normal;
+}
+  h2{
+    background-color: #562083;
+    height: 30px;
+    color:#C4C4C4;
+    font-family: Montserrat, sans-serif;
+    font-size:20px;
+    font-style:normal;
+    font-weight:700;
+    line-height:17px;
+    vertical-align: 15px;
+    }
+    li{
+        font-family: Montserrat, sans-serif;
+        font-size:20px;
+        font-style: normal;
+        font-weight: 400;
+        line-height:17px;
+        }
+    .span-negrita{
+        color: black;
+        font-family:Montserrat, sans-serif;
+        font-size: 20px;
+        font-style: normal;
+        font-weight: 700;
+        }
+    .span-negritacursiva{
+        color: black;
+        font-family: Montserrat, sans-serif;
+        font-size: 20px;
+        font-style: italic;
+        font-weight: 700;
+        }
+    .descripcion{
+        background-color: rgb(85, 2, 85);
+        color: rgb(230, 199, 235);
+        font-family: Montserrat, sans-serif;
+        font-size: 25px;
+        font-weight: 400;
+    }
+/*PIE DE PÁGINA*/
+ footer{
+    background-color: rgba(74, 9, 160, 0.5);
+    height: 50px;
+    text-align:center;
+        }
+    footer div a{
+            text-decoration: none;
+            color:#FFFFFF;
+            font-family:Montserrat, sans-serif;
+            font-size:20px;
+            font-style:normal;
+            font-weight:400;
+    }
