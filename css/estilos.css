@@ -28,7 +28,7 @@ nav a{
     text-decoration: none;
     background-color: rgba(238, 186, 238, 0.747);
     height: 30px;
-    color: rgb(255, 107, 91);
+    color: rgb(156, 38, 156);
     font-family: Montserrat, sans-serif;
     font-size: 15px;
     font-weight: 400;
@@ -40,7 +40,7 @@ body{
 main{
     max-width: 1041px;
     margin: 50px auto;
-    line-height: normal;
+    line-height: 20px;
 }
   h2{
     background-color: #562083;
@@ -51,7 +51,8 @@ main{
     font-style:normal;
     font-weight:700;
     line-height:17px;
-    vertical-align: 15px;
+    padding-left: 10px;
+    padding-top: 4px;
     }
     li{
         font-family: Montserrat, sans-serif;
