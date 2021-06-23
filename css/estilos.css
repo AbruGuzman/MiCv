@@ -40,7 +40,7 @@ body{
 main{
     max-width: 1041px;
     margin: 50px auto;
-    line-height: 20px;
+    line-height: normal;
 }
   h2{
     background-color: #562083;
